@@ -50,17 +50,21 @@ redirect_from:
   * Integrated preprocessing techniques such as standardization, data augmentation, and pixel segmentation into the data pipeline, which increased precision   by ~5%, recall by ~8%, and F1 score by 6%. 
 
 
-## Publications
-* J. K. Guo et al. including Sidharth Satya. Soft Actor-Critic Solution to a Security Game With Deception and an Informant, 26th International Command and Control Research and Technology Symposium, 2021.
+## Publications & Projects
 * (In Progress) Rothschild, D., Satya, S., & Yom-Tov, E. (2023). Streaming Services and Multilevel Conversion Journeys.
-  
+* J. K. Guo et al. including Sidharth Satya. Soft Actor-Critic Solution to a Security Game With Deception and an Informant, 26th International Command and Control Research and Technology Symposium, 2021.
+* _Senior Honors Thesis:_ Estimating the Impact of Artificial Intelligence on Jobs Within the Healthcare Industry
+  * Completed my senior honors thesis in economics under the advisement of Professor Enrico Moretti and received an A for my work. 
+  * Extracted and transformed data from the American Community Survey (2001-2017), O*NET, and the U.S. Patent Database.  
+  * Designed and ran regressions using a difference-in-differences approach along with an OLS approach in order to estimate the effect that artificial intelligence has on wages and employment for low-skill and high-skill labor within the healthcare industry. 
+
 ## Service and leadership
-* **180 Degrees Consulting @ UC Berkeley**
-  * _August 2017 to May 2021_
-  * Served as senior consultant for one semester, project manager for 2 semesters, and senior advisor for 5 semesters.  
 * **Economics Tutor @ UC Berkeley Cesar E. Chavez Student Learning Center**
   * _Jan 2020 to May 2021_
   * Provided assistance for Econ 1/2 (Introduction to Economics), Econ 100A/101A (microeconomics), Econ 100B/101B (macroeconomics), Econ 140 (econometrics), and other related coursework.
+* **180 Degrees Consulting @ UC Berkeley**
+  * _August 2017 to May 2021_
+  * Served as senior consultant for one semester, project manager for 2 semesters, and senior advisor for 5 semesters.  
  
 ## Programming Languages
 * Python
