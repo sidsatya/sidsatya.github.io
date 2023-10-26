@@ -65,9 +65,8 @@ redirect_from:
 
 ### Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* J. K. Guo et al. including Sidharth Satya. Soft Actor-Critic Solution to a Security Game With Deception and an Informant, 26th International Command and Control Research and Technology Symposium, 2021.
+* (In Progress) Rothschild, D., Satya, S., & Yom-Tov, E. (2023). Streaming Services and Multilevel Conversion Journeys.
   
 ### Service and leadership
 ======
