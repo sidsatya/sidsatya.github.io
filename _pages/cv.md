@@ -11,9 +11,9 @@ redirect_from:
 
 ### Education
 ======
-* Monta Vista High School
+* **Monta Vista High School**
     * _August 2014 to May 2017_
-* University of California, Berkeley
+* **University of California, Berkeley**
     * _August 2017 to May 2021_
     * B.A Computer Science
     * B.A Economics (with Honors)
