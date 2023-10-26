@@ -50,7 +50,7 @@ redirect_from:
   * Integrated preprocessing techniques such as standardization, data augmentation, and pixel segmentation into the data pipeline, which increased precision   by ~5%, recall by ~8%, and F1 score by 6%. 
 
 
-### Publications
+## Publications
 * J. K. Guo et al. including Sidharth Satya. Soft Actor-Critic Solution to a Security Game With Deception and an Informant, 26th International Command and Control Research and Technology Symposium, 2021.
 * (In Progress) Rothschild, D., Satya, S., & Yom-Tov, E. (2023). Streaming Services and Multilevel Conversion Journeys.
   
