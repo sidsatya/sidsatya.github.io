@@ -63,6 +63,7 @@ redirect_from:
 **Economics Tutor @ UC Berkeley Cesar E. Chavez Student Learning Center**
   * _Jan 2020 to May 2021_
   * Provided assistance for Econ 1/2 (Introduction to Economics), Econ 100A/101A (microeconomics), Econ 100B/101B (macroeconomics), Econ 140 (econometrics), and other related coursework.
+    
 **180 Degrees Consulting @ UC Berkeley**
   * _August 2017 to May 2021_
   * Served as senior consultant for one semester, project manager for 2 semesters, and senior advisor for 5 semesters.  
