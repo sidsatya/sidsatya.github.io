@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my cv [here]() or view it below. 
+
 ## Education
 **Monta Vista High School**
   *  _August 2014 to May 2017_
