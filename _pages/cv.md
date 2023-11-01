@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my cv [here](http://sidsatya.github.io/files/sid_satya_econ_cv_fall_2023.pdf) or view it below. 
+You can download my CV [here](http://sidsatya.github.io/files/sid_satya_econ_cv_fall_2023.pdf) or view it below. 
 
 ## Education
 **Monta Vista High School**
