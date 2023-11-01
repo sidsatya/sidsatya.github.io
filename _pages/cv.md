@@ -15,8 +15,8 @@ redirect_from:
     
 **University of California, Berkeley**
   * _August 2017 to May 2021_
-  * B.A Computer Science
-  * B.A Economics (with Honors)
+  * B.A Computer Science, B.A Economics (with Honors)
+  * _Senior Honors Thesis:_ Estimating the Impact of Artificial Intelligence on Jobs Within the Healthcare Industry
 
 ## Work experience
 * **Predoctoral Research Fellow @ Microsoft Research, Economics & Computation Group**
@@ -51,13 +51,9 @@ redirect_from:
   * Integrated preprocessing techniques such as standardization, data augmentation, and pixel segmentation into the data pipeline, which increased precision   by ~5%, recall by ~8%, and F1 score by 6%. 
 
 
-## Publications & Projects
+## Publications
 * (In Progress) Rothschild, D., Satya, S., & Yom-Tov, E. (2023). Streaming Services and Multilevel Conversion Journeys.
 * J. K. Guo et al. including Sidharth Satya. Soft Actor-Critic Solution to a Security Game With Deception and an Informant, 26th International Command and Control Research and Technology Symposium, 2021.
-* _Senior Honors Thesis:_ Estimating the Impact of Artificial Intelligence on Jobs Within the Healthcare Industry
-  * Completed my senior honors thesis in economics under the advisement of Professor Enrico Moretti and received an A for my work. 
-  * Extracted and transformed data from the American Community Survey (2001-2017), O*NET, and the U.S. Patent Database.  
-  * Designed and ran regressions using a difference-in-differences approach along with an OLS approach in order to estimate the effect that artificial intelligence has on wages and employment for low-skill and high-skill labor within the healthcare industry. 
 
 ## Service and leadership
 * **Economics Tutor @ UC Berkeley Cesar E. Chavez Student Learning Center**
