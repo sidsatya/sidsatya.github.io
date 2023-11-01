@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Monta Vista High School**
-    * ###### _August 2014 to May 2017_
-* **University of California, Berkeley**
-    * _August 2017 to May 2021_
-    * B.A Computer Science
-    * B.A Economics (with Honors)
+**Monta Vista High School**
+  *  _August 2014 to May 2017_
+**University of California, Berkeley**
+  * _August 2017 to May 2021_
+  * B.A Computer Science
+  * B.A Economics (with Honors)
 
 ## Work experience
 * **Predoctoral Research Fellow @ Microsoft Research, Economics & Computation Group**
