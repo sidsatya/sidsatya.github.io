@@ -58,7 +58,7 @@ You can download my CV [here](http://sidsatya.github.io/files/curriculum_vitae.p
 
 
 ## Publications
-1. **S. Satya**, D. Rothschild, and E. Yom-Tov, _Streaming Services and Multilevel Conversion Journeys_, Currently under review (November 2023).
+1. **S. Satya**, D. Rothschild, and E. Yom-Tov, _Streaming Services and Multilevel Conversion Journeys_, Currently under review at Marketing Science (November 2023). Preprint available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4627170).
 2. J. K. Guo, M.O. Hofmann, C. Veldhuizen, **S. Satya**, and V. Champagne, _Soft Actor-Critic Solution to a Security Game With Deception and an Informant_, 26th International Command and Control Research and Technology Symposium, 2021.
 
 ## Service and leadership
