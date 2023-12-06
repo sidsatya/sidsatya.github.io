@@ -58,8 +58,8 @@ You can download my CV [here](http://sidsatya.github.io/files/curriculum_vitae.p
 
 
 ## Publications
-1. (In Progress) Rothschild, D., Satya, S., & Yom-Tov, E. (2023). Streaming Services and Multilevel Conversion Journeys.
-2. J. K. Guo et al. including Sidharth Satya. Soft Actor-Critic Solution to a Security Game With Deception and an Informant, 26th International Command and Control Research and Technology Symposium, 2021.
+1. **S. Satya**, D. Rothschild, and E. Yom-Tov, _Streaming Services and Multilevel Conversion Journeys_, Currently under review (November 2023).
+2. J. K. Guo, M.O. Hofmann, C. Veldhuizen, **S. Satya**, and V. Champagne, _Soft Actor-Critic Solution to a Security Game With Deception and an Informant_, 26th International Command and Control Research and Technology Symposium, 2021.
 
 ## Service and leadership
 **Economics Tutor @ UC Berkeley Cesar E. Chavez Student Learning Center**
