@@ -18,7 +18,7 @@ You can download my CV [here](http://sidsatya.github.io/files/sid_satya_econ_cv_
 **University of California, Berkeley**
   * _August 2017 to May 2021_
   * B.A Computer Science, B.A Economics (with Honors)
-  * _Senior Honors Thesis:_ Estimating the Impact of Artificial Intelligence on Jobs Within the Healthcare Industry
+  * **Senior Honors Thesis:** Estimating the Impact of Artificial Intelligence on Jobs Within the Healthcare Industry
 
 ## Work experience
 **Predoctoral Research Fellow @ Microsoft Research, Economics & Computation Group**
@@ -31,7 +31,7 @@ You can download my CV [here](http://sidsatya.github.io/files/sid_satya_econ_cv_
 
 **Data Analyst @ One Drop**
   * _June 2021 to May 2022_
-  * Rebuilt 3 years of historical and current invoicing data at the user level using DBT and SQL and created a centralized dashboard in Looker -- representing     up to $480K in annual revenue and recapturing up to $150K in yearly invoicing related costs. 
+  * Rebuilt 3 years of historical and current invoicing data at the user level using DBT and SQL and created a centralized dashboard in Looker -- representing     up to \$480K in annual revenue and recapturing up to \$150K in yearly invoicing related costs. 
   * Extracted and transformed millions of data points to calculate SaaS metrics such as user churn, monthly recurring revenue, expansion, and contraction in       order to evaluate and forecast the overall financial health of the business.
   * Reconstructed lost user data regarding engagement and app usage in order to accurately generate quarterly reports on user behavior and forecast future         behavior based on past trends.
 
