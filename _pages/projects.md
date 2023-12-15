@@ -38,7 +38,7 @@ _Current Abstract:_ Advances in communication technology have increased the effe
 
 [Current Version](https://sidsatya.github.io/files/microbroadcasters_writing_sample.pdf)
 
-**Estimating the Impact of Artificial on Jobs Within the Healthcare Industry (revision in progress)**
+**Estimating the Impact of Artificial on Jobs Within the Healthcare Industry (revision in progress)**\
 _Description:_ My senior thesis, completed at UC Berkeley under the guidance of Professor Enrico Moretti.
 
 _Abstract:_ The rapid growth of the artificial intelligence field, as well as its ability to impact nearly every economic sector, underscores the importance of understanding its potential impact on labor. This paper examines how wages and employment levels for jobs in the healthcare industry are affected by artificial intelligence as well as the net effect of two direct impacts of AI through a difference-in-differences approach.  The results show that wages and employment for Physicians and Surgeons increased after the introduction of IBM Watson for healthcare applications in 2013 while no significant effect was found for Secretaries and Administrative Assistants in the healthcare industry. Overall, the results suggest that when artificial intelligence augments labor on decision tasks, it has a net positive effect whereas the effect of AI on the automation of prediction tasks remains ambiguous. 
