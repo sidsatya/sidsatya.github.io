@@ -18,15 +18,17 @@ author_profile: true
 ## Publications
 **Streaming Services and Multilevel Conversion Journeys**\
 with David Rothschild and Elad Yom-Tov\
-Currently under review at Marketing Science, Preprint available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4627170), 2023\
+Currently under review at Marketing Science, Preprint available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4627170), 2023
 
 _Abstract:_ We investigate the online user conversion funnel as it pertains to streaming video services. We provide a snapshot of current advertising strategies undertaken by streaming services on search engines and attempt to explain user behavior through the standard conversion funnel model. We find that the marginal lift for streaming advertisements is greater on queries that are not highly targeted and that a majority of user search sessions do not reflect sequential movements through stages of the conversion funnel. Additionally, short search sessions and the limited number of streaming queries per user hinder the applicability of the standard conversion funnel in explaining user behavior. We supplement our analysis by clustering users based on their streaming search history and identify salient archetypes that match the heterogeneity that we see in the data well. Finally, we propose a more generalized, multilevel conversion journey model that reflects our key findings and provides a clearer picture of user exploration. We discuss how different conversion journeys can be reconstructed from this model, providing a framework for stakeholders to better understand key questions (e.g., divergent pricing models, market consolidation, exclusivity of content) in large and growing industry in flux.
 
 **Soft Actor-Critic Solution to a Security Game with Deception and An Informant**\
 with Jinhong Guo, Martin Hofmann, Carter Veldhuizen, and Valerie Champagne\
-26th International Command and Control Research and Technology Symposium, 2021\
+26th International Command and Control Research and Technology Symposium, 2021
 
 _Abstract:_ In this paper, we describe an application of deep reinforcement learning to a security game. We model competition between two opponents as a two-player game with an added third-party player and solve for the optimal strategy using deep reinforcement learning to approximate the game equilibrium, yielding courses of action (COAs) for the attacker and defender that anticipate and respond to the opponent’s actions. Solving multi-agent security games with a meta strategy-guided Deep Reinforcement Learning algorithm yields robust, explainable decision support and reduces the risk of surprise due to unexpected adversary COAs. Our approach learns an effective defender strategy despite the attacker blending into the background population modeled by the third-party player, and exploits the third-party player as an unreliable informant.
+
+_Citation:_ J. K. Guo, M. O. Hofmann, C. Veldhuizen, S. Satya, and V. Champagne, Soft Actor-Critic Solution to a Security Game With Deception and an Informant, 26th International Command and Control Research and Technology Symposium, 2021.
 
 ## Projects
 **A Contest Model of Talking and Listening (in progress)**\
