@@ -6,4 +6,6 @@ plugins:
 
 logo: /assets/logo_photo.jpeg
 github_url: https://github.com/sidsatya
+github_logo: /assets/github_logo.png
 linkedin_url: https://www.linkedin.com/in/sidharthsatya/
+linkedin_logo: /assets/linkedin_logo.png
