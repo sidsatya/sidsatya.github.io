@@ -1,123 +1,28 @@
 ---
 layout: default
 ---
+Welcome to my website! I'm an incoming Ph.D. student in Brown University's Economics Department (starting August 2024). Previously, I worked as a Predoctoral research fellow at Microsoft Research's Economics & Computation Group. Before that, I worked as a Data Analyst at One Drop and as an ML Intern for two summers at Lockheed Martin. I graduated from UC Berkeley in 2021 with a double major in Economics and Computer Science. 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am highly interested in studying both the drivers of technology and the impacts of modern technology on human decision-making. Current and past research that I have been involved with includes projects related to how AI has affected jobs in the healthcare industry, the spread of misinformation in social networks, understanding how users respond to streaming-related ads on search engines, modeling biased belief formation in the presence of unique and repeated information, designing optimal autobidders, solving for equilibrium beliefs in social networks with polarized users and platform moderation, and measuring labor turnover in markets with state-funded worker training grants. Hobbies of mine include playing soccer and basketball, philosophy, listening to music, and stand up comedy.
 
-[Link to another page](./another-page.html).
+Thanks for visiting!
 
-There should be whitespace between paragraphs.
+## CV
+[You can view my CV here](./assets/curriculum_vitae.pdf).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Research
 
-# Header 1
+### Publications and Presentations
+"Soft Actor-Critic Solution to a Security Game with Deception and An Informant" with Jinhong Guo, Martin Hofmann, Carter Veldhuizen, and Valerie Champagne
+_26th International Command and Control Research and Technology Symposium_, 2021
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Works in Progress
+"Streaming Services and Multilevel Conversion Journeys" with David Rothschild and Elad Yom-Tov
 
-## Header 2
+<!--- "The Role of Memory in Beliefs Formation" with Markus M. Mobius, Lukas Bolte, Tanya S. Rosenblatt, and Pierre Luc-Vautrey -->
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+"A Contest Model of Talking and Listening"
 
-### Header 3
+## Contact
+You can reach me at [sidsatya.research@gmail.com](sidsatya.research@gmail.com).
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
