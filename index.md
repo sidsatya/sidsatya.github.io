@@ -13,7 +13,7 @@ Thanks for visiting!
 ## Research
 
 ### Publications and Presentations
-"Soft Actor-Critic Solution to a Security Game with Deception and An Informant" with Jinhong Guo, Martin Hofmann, Carter Veldhuizen, and Valerie Champagne
+"Soft Actor-Critic Solution to a Security Game with Deception and An Informant" with Jinhong Guo, Martin Hofmann, Carter Veldhuizen, and Valerie Champagne\
 _26th International Command and Control Research and Technology Symposium_, 2021
 
 ### Works in Progress
