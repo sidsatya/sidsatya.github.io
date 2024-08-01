@@ -23,13 +23,15 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        {% if site.github.is_user_page %}
-        <img src="{{site.github_logo}}" width="30", height="30"> <p class="view"><a href="{{ site.github.github_url }}">Github</a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <img src="{{site.linkedin_logo}}" width="30", height="30"> <p class="view"><a href="{{ site.github.linkedin_url }}">LinkedIn</a></p>
-        {% endif %}
+      <p class="view">
+        <a href="{{ site.github.github_url }}">
+          <img src="{{site.github_logo}}" width="30", height="30"> 
+        </a>
+        
+        <a href="{{ site.github.linkedin_url }}">
+          <img src="{{site.linkedin_logo}}" width="30", height="30"> 
+        </a>
+      </p>
       </header>
       <section>
 
