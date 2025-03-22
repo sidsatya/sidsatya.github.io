@@ -9,7 +9,7 @@ I am highly interested in studying both the drivers of technology and the impact
 Thanks for visiting!
 
 ## CV
-[You can view my CV here](./assets/curriculum_vitae.pdf).
+[You can view my CV here](./assets/cv_sid_satya.pdf). 
 
 ## Research
 
