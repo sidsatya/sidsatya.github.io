@@ -20,9 +20,7 @@ _26th International Command and Control Research and Technology Symposium_, 2021
 ### Works in Progress
 "Streaming Services and Multilevel Conversion Journeys" with David Rothschild and Elad Yom-Tov
 
-<!--- "The Role of Memory in Beliefs Formation" with Markus M. Mobius, Lukas Bolte, Tanya S. Rosenblatt, and Pierre Luc-Vautrey -->
-
-"A Contest Model of Talking and Listening"
+"The Role of Memory in Beliefs Formation" with Markus M. Mobius, Lukas Bolte, Tanya S. Rosenblatt, and Pierre Luc-Vautrey
 
 ## Contact
 You can reach me at [sidsatya.research@gmail.com](sidsatya.research@gmail.com).
