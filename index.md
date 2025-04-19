@@ -22,7 +22,7 @@ _26th International Command and Control Research and Technology Symposium_, 2021
 
 "The Role of Memory in Beliefs Formation" with Markus M. Möbius, Lukas Bolte, Tanya S. Rosenblat, and Pierre-Luc Vautrey
 
-"Illusion of Depth: Belief Formation and Search Dynamics Under LLM Summarization"
+"The Illusion of Depth: Belief Formation and Search Dynamics Under LLM Summarization"
 
 ## Contact
 You can reach me at [sidsatya.research@gmail.com](sidsatya.research@gmail.com).
