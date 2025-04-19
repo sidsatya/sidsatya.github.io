@@ -9,7 +9,7 @@ I am highly interested in studying both the drivers of technology and the impact
 Thanks for visiting!
 
 ## CV
-[You can view my CV here](./assets/cv_sidsatya_mar25.pdf). 
+[You can view my CV here](./assets/cv_sidsatya_apr25.pdf). 
 
 ## Research
 
@@ -18,7 +18,7 @@ Thanks for visiting!
 _26th International Command and Control Research and Technology Symposium_, 2021
 
 ### Works in Progress
-"Streaming Services and Multilevel Conversion Journeys" with David Rothschild and Elad Yom-Tov
+"Streaming Services and Multilevel Conversion Journeys" with David Rothschild and Elad Yom-Tov. [First Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4627170), currently under revision. 
 
 "The Role of Memory in Beliefs Formation" with Markus M. Möbius, Lukas Bolte, Tanya S. Rosenblat, and Pierre-Luc Vautrey
 
