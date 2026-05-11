@@ -18,7 +18,7 @@ Thanks for visiting!
 _26th International Command and Control Research and Technology Symposium_, 2021
 
 ### Works in Progress
-"Pre-trained Tabular Foundation Models as Versatile Summary Networks for Neural Posterior Estimation" with Elliot Pickens and Chiraag Gohel. [arXiV](https://arxiv.org/abs/2605.07765)
+"Pre-trained Tabular Foundation Models as Versatile Summary Networks for Neural Posterior Estimation" with Elliot Pickens and Chiraag Gohel. [arXiV].(https://arxiv.org/abs/2605.07765)
 
 "Streaming Services and Multilevel Conversion Journeys" with David Rothschild and Elad Yom-Tov. [First Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4627170), currently under revision. 
 
