@@ -18,16 +18,15 @@ Thanks for visiting!
 _26th International Command and Control Research and Technology Symposium_, 2021
 
 ### Works in Progress
+"Pre-trained Tabular Foundation Models as Versatile Summary Networks for Neural Posterior Estimation" with Elliot Pickens and Chiraag Gohel. [arXiV](https://arxiv.org/abs/2605.07765)
+
 "Streaming Services and Multilevel Conversion Journeys" with David Rothschild and Elad Yom-Tov. [First Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4627170), currently under revision. 
 
 "The Role of Memory in Beliefs Formation" with Markus M. Möbius, Lukas Bolte, Tanya S. Rosenblat, and Pierre-Luc Vautrey
 
 "AI, Health Information Technology, and Labor Demand in U.S. Hospitals" with Jack Cenatempo
 
-"Using TabPFN and Neural Posterior Estimation for Simulation-Based Inference" with Elliot Pickens and Chiraag Gohel
-
 "The Illusion of Depth: Belief Formation and Search Dynamics Under LLM Summarization"
 
 ## Contact
 You can reach me at [sidsatya.research@gmail.com](sidsatya.research@gmail.com).
-
