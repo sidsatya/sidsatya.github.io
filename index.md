@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Welcome!
-I'm a Ph.D. student in Brown University's Economics Department. Previously, I worked as a Predoctoral Research Fellow at Microsoft Research's Economics & Computation Group. Before that, I worked as a Data Analyst at One Drop and as an ML Intern for two summers at Lockheed Martin. I graduated from UC Berkeley in 2021 with a double major in Economics and Computer Science. 
+I'm a Ph.D. student in Brown University's Economics Department. Previously, I worked as a Predoctoral Research Fellow at Microsoft Research's Economics & Computation Group. I graduated from UC Berkeley in 2021 with a double major in Economics and Computer Science. 
 
 My current research interests lie at the intersection of labor, healthcare, and behavioral economics, with a particular focus on the impact of artificial intelligence and information technology. 
 
