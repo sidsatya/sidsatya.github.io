@@ -9,16 +9,16 @@ My current research interests lie at the intersection of labor, healthcare, and 
 Thanks for visiting!
 
 ## CV
-[You can view my CV here](./assets/CV_sidsatya_may26.pdf). 
+[You can view my CV here](./assets/cv_sidsatya.pdf). 
 
 ## Research
 
 ### Works in Progress
 "Pre-trained Tabular Foundation Models as Versatile Summary Networks for Neural Posterior Estimation" with Elliot Pickens and Chiraag Gohel. [arXiV](https://arxiv.org/abs/2605.07765).
 
-"The Role of Memory in Beliefs Formation" with Markus M. Möbius, Lukas Bolte, Tanya S. Rosenblat, and Pierre-Luc Vautrey
+"The Role of Memory in Beliefs Formation" with Markus M. Möbius, Lukas Bolte, Tanya S. Rosenblat, and Pierre-Luc Vautrey.
 
-"Streaming Services and Multilevel Conversion Journeys" with David Rothschild and Elad Yom-Tov.
+"Streaming Services and Multilevel Conversion Journeys" with David Rothschild, Elad Yom-Tov, and Neil He.
 
 ### Publications and Presentations
 "Soft Actor-Critic Solution to a Security Game with Deception and An Informant" with Jinhong Guo, Martin Hofmann, Carter Veldhuizen, and Valerie Champagne\
